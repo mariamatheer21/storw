@@ -1,0 +1,73 @@
+.box {
+    
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+    
+    
+    min-height: 300px;
+    width: 30vw;
+    margin: 50px auto;
+    background: rgb(12, 12, 12);
+    border-radius: 20px;
+
+  }
+  
+  
+  body {
+    background: #814083;
+  
+  }
+  .b{
+    margin: auto;
+    width: 60%;
+  
+    padding: 10px;
+    color: aliceblue;
+    background-color: rgb(12, 12, 12);
+
+  }
+  .center {
+    margin: auto;
+    width: 85%;
+    border: 1px solid #0a0a0a;
+    border-radius: 20px;
+color: rgb(10, 10, 10);
+background-color: cornsilk;
+    padding: 10px;}
+    .gty{
+      margin: auto;
+      width: 85%;
+      border: 1px solid #0a0a0a;
+      border-radius: 20px;
+  color: rgb(10, 10, 10);
+  background-color: cornsilk;
+      padding: 10px;
+    }
+    .gtc{
+      margin: auto;
+      width: 85%;
+      border: 1px solid #070707;
+      border-radius: 20px;
+  color: rgb(13, 14, 13);
+  background-color: cornsilk;
+      padding: 10px; 
+    } 
+    .gtd{
+      margin: auto;
+      width: 85%;
+      border: 1px solid #0a0a0a;
+      border-radius: 20px;
+  color: rgb(14, 15, 15);
+  background-color: cornsilk;
+      padding: 10px;
+    }
+    .vvf{
+      border-radius: 10px;
+    }
+    
